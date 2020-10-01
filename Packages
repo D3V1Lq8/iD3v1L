@@ -1,0 +1,14 @@
+Package: my
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: D3V1LPc 
+Depends: mobilesubstrate
+Conflicts:
+Filename: debs/my_1.0.0_iphoneos-arm 2.deb
+Size: 112286
+MD5sum: d3d232ac4fb181bd2c48792965917b6f
+SHA1: d3d232ac4fb181bd2c48792965917b6f
+SHA256: 6601fcfc3dfa2f9b08784775738cf9857957966993fc4545571f0a6cee8c2cce
+Section: Tweaks
+Depiction: https://d3v1l.me
+Name: D3V1L Mod
